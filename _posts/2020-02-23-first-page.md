@@ -1,7 +1,7 @@
 ---
-title: "minimal mistakes 테마를 이용해 github.io 블로그 구축하기"
+title: "first page"
 categories: 
-  - blogging
-last_modified_at: 2018-07-01T13:00:00+09:00
+  - hacking
+last_modified_at: 2020-02-26T13:00:00+09:00
 toc: true
 ---
