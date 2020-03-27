@@ -50,7 +50,7 @@ reverseMe.exe가 존재하는 파일 내에는 저런 이름을 가진 파일이
 설마 파일의 읽은 크기를 저장하는 것이니 싶어 Keyfile.dat 내부에 'he'라고 입력한 후 해당 주소를 살펴보았더니
 ![](/assets/images/lena/1/lena1-7.png){: .align-center}
 글자 크기만큼인 2가 들어있었다.
-그렇다면 밑에 `JL` 인 조건이 있었으니 10보다 크게 해야 실패했다는 메시지로 가지 않을 수 있다.
+그렇다면 밑에 `JL` 인 조건이 있었으니 10h(==16d)보다 크게 해야 실패했다는 메시지로 가지 않을 수 있다.
 
 그래서 Keyfile.dat의 내용을 다음과 같이 설정해주고 돌려보니...
 ![](/assets/images/lena/1/lena1-8.png){: .align-center}
