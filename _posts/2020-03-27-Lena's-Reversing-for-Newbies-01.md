@@ -8,7 +8,7 @@ tags:
 last_modified_at: 2020-03-27
 ---
 
-리버싱을 연습하기 좋은 자료로서 유명한 자료 중 하나로 **Lena's Reversing for Newbies** 가 있다.
+리버싱을 연습하기 좋은 자료로서 유명한 자료 중 하나로 **Lena's Reversing for Newbies**가 있다.
 
 [tuts4you](https://tuts4you.com/) 라는 사이트에 올라온 것이다.
 
@@ -70,6 +70,8 @@ reverseMe.exe가 존재하는 파일 내에는 저런 이름을 가진 파일이
 성공!
 
 ---
+p.s. 참고로 tutorial 1에 대한 해설을  tutorial 2에서 해준다. ~~필자는 그런줄 몰랐다.~~
+
 다음에는 포스팅을 좀 더 간단히, 알기 쉽게 전달하도록 노력해봐야겠다.
 
 리버싱 도전은 계속된다. 파이팅!
