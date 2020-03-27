@@ -1,0 +1,19 @@
+---
+title: "[Lena's Reversing for Newbies] tutorial 3"
+categories:
+  - Hacking
+tags:
+  - Reversing
+  - lena
+last_modified_at: 2020-03-27
+visible: 1
+---
+
+이번에는 Lena's Reversing의 (문제 기준으로)두 번째 튜토리얼이다. 초기 파일에는 이러한 것들이 들어있다.
+![](/assets/images/lena/2/1.png){: .align-center}
+
+## 실행
+Ollydbg를 이용해 분석해보기 전에 먼저 **RegisterMe.exe**를 실행해서 어떤 것이 목표고 어떻게 동작하는지를 알아보자.
+![](/assets/images/lena/2/2.png){: .align-center}
+
+## 분석
